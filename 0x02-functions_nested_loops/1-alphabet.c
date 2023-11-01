@@ -7,7 +7,9 @@
 void alphabet(void)
 {
 	char lt;
-	for(lt = 'a'; lt <= 'z'; lt++)
-	Putchar(lt);
-	Putchar('\n');
+
+
+	for (lt = 'a'; lt <= 'z'; lt++)
+		putchar(lt);
+	putchar('\n');
 }
