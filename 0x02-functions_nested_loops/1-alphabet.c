@@ -6,9 +6,11 @@
  */
 void alphabet(void)
 {
-	char putchar(lt);;
+	char (lt);
 
 	for (lt = 'a'; lt <= 'z'; lt++)
+	{
 		putchar(lt);
+	}
 	putchar('\n');
 }
