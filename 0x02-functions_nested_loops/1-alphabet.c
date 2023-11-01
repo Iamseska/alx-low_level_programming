@@ -6,8 +6,7 @@
  */
 void alphabet(void)
 {
-	char lt;
-	int putchar;
+	char putchar(lt);;
 
 	for (lt = 'a'; lt <= 'z'; lt++)
 		putchar(lt);
